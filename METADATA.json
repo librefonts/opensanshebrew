@@ -1,0 +1,123 @@
+{
+  "name": "Open Sans Hebrew Extra Bold",
+  "designer": "Multiple Designers",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 28316,
+  "fonts": [
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "normal",
+      "weight": 800,
+      "filename": "OpenSansHebrew-ExtraBold.ttf",
+      "postScriptName": "OpenSansHebrew-ExtraBold",
+      "fullName": "Open Sans Hebrew ExtraBold",
+      "copyright": "copyright missing"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "normal",
+      "weight": 400,
+      "filename": "OpenSansHebrew-Regular.ttf",
+      "postScriptName": "OpenSansHebrew-Regular",
+      "fullName": "Open Sans Hebrew",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "italic",
+      "weight": 700,
+      "filename": "OpenSansHebrew-BoldItalic.ttf",
+      "postScriptName": "OpenSansHebrew-BoldItalic",
+      "fullName": "Open Sans Hebrew Bold Italic",
+      "copyright": "copyright missing"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "normal",
+      "weight": 300,
+      "filename": "OpenSansHebrewLight-Regular.ttf",
+      "postScriptName": "OpenSansHebrew-Light",
+      "fullName": "Open Sans Hebrew Light",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "italic",
+      "weight": 800,
+      "filename": "OpenSansHebrewExtraBold-Italic.ttf",
+      "postScriptName": "OpenSansHebrewExtraBold-Italic",
+      "fullName": "Open Sans Hebrew Extra Bold Italic",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "italic",
+      "weight": 300,
+      "filename": "OpenSansHebrewLight-Italic.ttf",
+      "postScriptName": "OpenSansHebrew-LightItalic",
+      "fullName": "Open Sans Hebrew Light Italic",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "italic",
+      "weight": 400,
+      "filename": "OpenSansHebrew-Italic.ttf",
+      "postScriptName": "OpenSansHebrew-Italic",
+      "fullName": "Open Sans Hebrew Italic",
+      "copyright": "copyright missing"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "italic",
+      "weight": 300,
+      "filename": "OpenSansHebrew-LightItalic.ttf",
+      "postScriptName": "OpenSansHebrew-LightItalic",
+      "fullName": "Open Sans Hebrew Light Italic",
+      "copyright": "copyright missing"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "normal",
+      "weight": 700,
+      "filename": "OpenSansHebrew-Bold.ttf",
+      "postScriptName": "OpenSansHebrew-Bold",
+      "fullName": "Open Sans Hebrew Bold",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "normal",
+      "weight": 300,
+      "filename": "OpenSansHebrew-Light.ttf",
+      "postScriptName": "OpenSansHebrew-Light",
+      "fullName": "Open Sans Hebrew Light",
+      "copyright": "copyright missing"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "italic",
+      "weight": 800,
+      "filename": "OpenSansHebrew-ExtraBoldItalic.ttf",
+      "postScriptName": "OpenSansHebrew-ExtraBoldItalic",
+      "fullName": "Open Sans Hebrew ExtraBold Italic",
+      "copyright": "copyright missing"
+    },
+    {
+      "name": "Open Sans Hebrew Extra Bold",
+      "style": "normal",
+      "weight": 800,
+      "filename": "OpenSansHebrewExtraBold-Regular.ttf",
+      "postScriptName": "OpenSansHebrew-ExtraBold",
+      "fullName": "Open Sans Hebrew Extra Bold",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}

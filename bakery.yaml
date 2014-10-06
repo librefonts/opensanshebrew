@@ -1,0 +1,10 @@
+commit: HEAD
+process_files: [OpenSansHebrew-BoldItalic.ttf.ttx, OpenSansHebrew-ExtraBold.ttf.ttx,
+  OpenSansHebrew-Regular.ttf.ttx, OpenSansHebrew-LightItalic.ttf.ttx, OpenSansHebrew-ExtraBoldItalic.ttf.ttx,
+  OpenSansHebrew-Italic.ttf.ttx, OpenSansHebrew-Bold.ttf.ttx, OpenSansHebrew-Light.ttf.ttx,
+  src/OpenSansHebrew-BoldItalic.otf.ttx, src/OpenSansHebrew-ExtraBold.otf.ttx, src/OpenSansHebrew-Light.otf.ttx,
+  src/OpenSansHebrew-Regular.otf.ttx, src/OpenSansHebrew-Bold.otf.ttx, src/OpenSansHebrew-ExtraBoldItalic.otf.ttx,
+  src/OpenSansHebrew-Italic.otf.ttx, src/OpenSansHebrew-LightItalic.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
